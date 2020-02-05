@@ -1,0 +1,24 @@
+{
+  "name": "node-google-geocode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "repl": "node --experimental-repl-await repl.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.15",
+    "qs": "^6.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
